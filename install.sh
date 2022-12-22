@@ -6,3 +6,4 @@ echo Installing Squid
 sleep 2
 echo Installing CertBot
 sleep Done
+rm /root/install.sh
