@@ -12,4 +12,4 @@ sleep 1
 
 echo Done
 
-rm /root/install.sh
+rm /root/installer
