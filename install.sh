@@ -69,4 +69,3 @@ sleep 2
 echo Installing CertBot
 sleep 1
 echo Done
-rm /root/installer
