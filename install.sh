@@ -9,5 +9,15 @@ echo Installing Squid
 sleep 2
 echo Installing CertBot
 sleep 1
-
+echo Installing Openvpn
+sleep 2
+echo Installing Squid
+sleep 2
+echo Installing CertBot
+sleep 1echo Installing Openvpn
+sleep 2
+echo Installing Squid
+sleep 2
+echo Installing CertBot
+sleep 1
 echo Done
