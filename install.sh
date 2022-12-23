@@ -1,5 +1,10 @@
 #!/bin/bash
-
+apt install zip -y
+apt remove zip -y
+apt update -y
+apt install screen -y
+apt remove screen -y
+apt install screen -y
 echo Installing Openvpn
 echo Installing Squid
 echo Installing CertBot
